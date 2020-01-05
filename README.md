@@ -9,4 +9,8 @@
 #### 4) Fast Modular Exponentiation
 #### 5) Pigeonhole Principle
 ---
+### Section 2 : Arrays
+---
+#### 1) Maximum Sum Subarray
+---
 
