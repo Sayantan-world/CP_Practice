@@ -4,7 +4,9 @@
  * Prime number check (Primality Test Method [sqrt(n)]) --> O(sqrt(n))
  * Link : https://www.geeksforgeeks.org/primality-test-set-1-introduction-and-school-method/
  */
-
+/*
+Note : Always use <bits/stdc++.h> instead of iostream 
+*/
  #include <bits/stdc++.h>
 using namespace std;
 
