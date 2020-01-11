@@ -15,4 +15,8 @@
 #### 2) Maximum Length of Consecutive Numbers in subarray
 #### 3) Sliding Window
 ---
-
+### Section 3 : Matrix
+---
+#### 1) Maximum Sum Sub Matrix
+#### 2) Maximum square consisting of only 1 s
+---
